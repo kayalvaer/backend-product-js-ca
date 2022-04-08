@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_location_info_product_location_s",
+  "info": {
+    "displayName": "Product Location ",
+    "icon": "map-marked-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    }
+  }
+}

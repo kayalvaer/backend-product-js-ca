@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_publish_details_publish_details",
+  "info": {
+    "displayName": "Publish Details",
+    "icon": "book-reader",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "date": {
+      "type": "date"
+    },
+    "time": {
+      "type": "time"
+    }
+  }
+}
